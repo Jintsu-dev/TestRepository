@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 asfafssdfdfdfdf
 
 ddddd
+=======
+asdbaskdjhashdkjash
+>>>>>>> feature/new/test-function
